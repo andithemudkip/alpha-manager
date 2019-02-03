@@ -8,9 +8,6 @@
   - Easily manage your bots using the _Dashboard [WIP]_
 
 ### Installation
-
-Install the dependencies and devDependencies and start the server.
-
 ```sh
 $ npm install --save alpha-manager
 ```
