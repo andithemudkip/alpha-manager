@@ -1,4 +1,4 @@
-# alpha-manager
+# alpha-manager (NOT RELEASED YET!)
 
 **alpha-manager** is a NodeJS module that makes it easy to run and manage multiple scripts (mainly useful for facebook bots at the moment)
 
